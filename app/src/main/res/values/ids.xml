@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="www" type="id" />
+    <item name="gian" type="id" />
+    <item name="econ" type="id" />
+    <item name="Lotus" type="id" />
+    <item name="same" type="id" />
+    <item name="differ" type="id" />
+</resources>
